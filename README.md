@@ -82,7 +82,7 @@ I'm excited to keep expanding my skills and sharing my journey with the world!
 ## 🤝 Let's Connect  
 
 - [LinkedIn](https://www.linkedin.com/in/venus-lee-a987121a4/)  
-- 🌐 [Portfolio](https://YourPortfolioLink.com) – Currently under construction 🚧
+- 🌐 [Portfolio](https://venuslee-portfolio.netlify.app/) – Currently under construction 🚧
 
 ###
 <!--
