@@ -11,12 +11,8 @@
 
 ## 🚀 About Me  
 
-I'm Venus, a **Mathematics and Computer Science** graduate with a passion for:  
-- 🧩 Solving challenging coding problems.  
-- 💻 Building innovative projects on GitHub.  
-- 🌐 Exploring cloud technologies (currently learning AWS).  
-
-I'm excited to keep expanding my skills and sharing my journey with the world!  
+I’m Venus, a junior software engineer and UBC Mathematics & Computer Science graduate. I enjoy solving problems and building innovative, real-world projects. 
+I’m excited to keep expanding my skills and sharing my journey with the world!
 
 ---
 
@@ -35,6 +31,7 @@ I'm excited to keep expanding my skills and sharing my journey with the world!
 
 #### Frameworks:  
 <p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
