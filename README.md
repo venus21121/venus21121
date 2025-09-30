@@ -11,8 +11,7 @@
 
 ## 🚀 About Me  
 
-I’m Venus, a junior software engineer and UBC Mathematics & Computer Science graduate. I enjoy solving problems and building innovative, real-world projects. 
-I’m excited to keep expanding my skills and sharing my journey with the world!
+Hi there! 👋 I’m Venus, a **junior software engineer** and **UBC Mathematics & Computer Science** graduate. I enjoy solving problems and building innovative real-world projects. I’m excited to keep expanding my skills and sharing my journey with the world!
 
 ---
 
