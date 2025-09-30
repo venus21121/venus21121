@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=👋Hello%2C+I'm+Venus!🌟;Welcome+to+my+GitHub+profile!;" alt="Typing animation" />
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" alt="Coding woman gif" width="300" />
 </p>
 <p align="center">
   A Passionate Software Developer always learning and building! 💻🚀
 </p>
-<!-- Smaller Coding Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" alt="Coding woman gif" width="300" />
-</p>
+
 
 
 ---
